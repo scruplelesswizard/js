@@ -2,6 +2,7 @@ export * from "@buf/meshtastic_protobufs.bufbuild_es/meshtastic/admin_pb.js";
 export * from "@buf/meshtastic_protobufs.bufbuild_es/meshtastic/apponly_pb.js";
 export * from "@buf/meshtastic_protobufs.bufbuild_es/meshtastic/cannedmessages_pb.js";
 export * from "@buf/meshtastic_protobufs.bufbuild_es/meshtastic/channel_pb.js";
+export * from "@buf/meshtastic_protobufs.bufbuild_es/meshtastic/clientonly_pb.js";
 export * from "@buf/meshtastic_protobufs.bufbuild_es/meshtastic/config_pb.js";
 export * from "@buf/meshtastic_protobufs.bufbuild_es/meshtastic/connection_status_pb.js";
 export * from "@buf/meshtastic_protobufs.bufbuild_es/meshtastic/deviceonly_pb.js";
